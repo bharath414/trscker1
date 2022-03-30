@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="tr1">5bf575692f6e0110a10b9facf699b621</application>
+        <filter/>
+        <name>tr1s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_441646_tracker1.tr1_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 02:46:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>57f575692f6e0110a10b9facf699b624</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tr1s</sys_name>
+        <sys_package display_value="tracker1" source="x_441646_tracker1">b334fda52f6e0110a10b9facf699b6fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tracker1">b334fda52f6e0110a10b9facf699b6fa</sys_scope>
+        <sys_update_name>sys_ui_module_57f575692f6e0110a10b9facf699b624</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 02:46:25</sys_updated_on>
+        <table>x_441646_tracker1_tr1</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
